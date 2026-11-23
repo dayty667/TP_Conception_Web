@@ -8,7 +8,7 @@ Prototype d'application web conçu dans le cadre du projet transversal **EPSI Li
 ## Cahier des charges & Suivi du MVP (MoSCoW)
 
 ### Must Have (Indispensable à la démonstration)[cite: 9]
-- [x] **Base de données relationnelle** : création des tables `entreprises` et `offres` (relation 1-N) avec jeu de données de démonstration[cite: 38, 39, 100].
+- [x] **Base de données relationnelle** : création des tables `entreprises`, `offres`, `candidature` et `clients`  (relation 1-N) avec jeu de données de démonstration[cite: 38, 39, 100].
 - [ ] **Gestion des entreprises (CRUD)** : ajouter, lister, modifier et supprimer une entreprise partenaire[cite: 7, 8].
 - [ ] **Gestion des offres (CRUD)** : créer une offre rattachée à une entreprise existante, afficher la liste, modifier le statut (`ouverte` / `clôturée`) et supprimer[cite: 7, 8, 17].
 - [ ] **Validation des données** : contrôle des champs obligatoires côté client et serveur avec messages d'erreur clairs[cite: 55, 56, 70].
